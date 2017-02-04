@@ -1,0 +1,51 @@
+# Translation of Development (trunk) in Japanese
+# This file is distributed under the same license as the Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-04-25 07:57:22+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.1.0-alpha\n"
+"Project-Id-Version: Development (trunk)\n"
+
+#: nologin-redirect.php:43
+msgid "You do not have sufficient permissions to access this page."
+msgstr "このページにアクセスするために、十分なアクセス権利を持っていません。"
+
+#: nologin-redirect.php:48
+msgid "wp-nologin-redirect menu"
+msgstr "wp-nologin-redirectメニュー"
+
+#: nologin-redirect.php:50
+msgid "Type the message that you want to display the login screen."
+msgstr "ログイン画面に表示するメッセージを入力してください。"
+
+#: nologin-redirect.php:51
+msgid "If there is no input \" Welcome to this site. Please log in to continue \" it will be the standard"
+msgstr "入力がない場合は「ウェブサイトにようこそ。閲覧するにはログインしてください。」が標準となります。"
+
+#: nologin-redirect.php:58 nologin-redirect.php:71
+msgid "Welcome to this site. Please log in to continue"
+msgstr "ウェブサイトにようこそ。閲覧するにはログインしてください。"
+
+#: nologin-redirect.php:62
+msgid "Save"
+msgstr "保存"
+
+#: nologin-redirect.php:93
+msgid "saved the message"
+msgstr "メッセージを保存しましました"
+
+#. Plugin Name of the plugin/theme
+msgid "No Login Redirect"
+msgstr "ログインしていなければリダイレクトする"
+
+#. Description of the plugin/theme
+msgid "非ログイン時、ログイン画面にリダイレクトさせる"
+msgstr "非ログイン時、ログイン画面にリダイレクトさせる"
+
+#. Author of the plugin/theme
+msgid "YAT, mel_cha"
+msgstr "YAT, mel_cha"
